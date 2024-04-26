@@ -1,0 +1,12 @@
+# Ignore .pyc files
+*.pyc
+
+# Ignore .venv directories
+.venv/
+
+# Ignore .ini files
+*.ini
+
+# Ignore README files
+README*
+
